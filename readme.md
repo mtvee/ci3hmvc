@@ -6,6 +6,8 @@ This is a base package of CodeIgniter with HMVC applied that I use for new proje
 - [CodeIgniter 3.1.6](http://codeigniter.com)
 - [HMVC (e52dcb6)](http://bitbucket.org) patched for method name change in CI
 
+I put `index.php` into a `/public` folder as well to keep the other stuff out of the web server path.
+
 Also
 ----
 
