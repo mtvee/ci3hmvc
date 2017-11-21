@@ -8,6 +8,13 @@ This is a base package of CodeIgniter with HMVC applied that I use for new proje
 
 I put `index.php` into a `/public` folder as well to keep the other stuff out of the web server path.
 
+
+Unit Testing
+------------
+
+Unit Testing for CI is a pita with PHPUnit so I added and updated an old 2.x unit testing thing
+I have used for quite some time. The file `application\modules\libraries\Ciut.php` has all the details if you are interested. 
+
 Also
 ----
 
